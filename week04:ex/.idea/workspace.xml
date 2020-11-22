@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52c349a6-8be5-4cc6-87d0-bb0d8895836b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dkSnyfA5RSPYWPh0rieC3SOu6p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.01_eight_queens">
+    <configuration name="01_eight_queens" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="week04ex" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../week04:projects" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../week04:projects/01_eight_queens.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="68_json_to_tsv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="week04ex" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/68_json_to_tsv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="77_regex_word" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="week04ex" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/77_regex_word.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="78_regex_par" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="week04ex" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/78_regex_par.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="79_regex_html" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="week04ex" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/79_regex_html.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.01_eight_queens" />
+        <item itemvalue="Python.77_regex_word" />
+        <item itemvalue="Python.68_json_to_tsv" />
+        <item itemvalue="Python.79_regex_html" />
+        <item itemvalue="Python.78_regex_par" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52c349a6-8be5-4cc6-87d0-bb0d8895836b" name="Default Changelist" comment="" />
+      <created>1592967768116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592967768116</updated>
+      <workItem from="1592967769415" duration="3630000" />
+      <workItem from="1592985825850" duration="276000" />
+      <workItem from="1592986702743" duration="639000" />
+      <workItem from="1593063984950" duration="1163000" />
+      <workItem from="1593138909934" duration="333000" />
+      <workItem from="1593155877823" duration="4880000" />
+      <workItem from="1593224503870" duration="8644000" />
+      <workItem from="1593268555747" duration="1326000" />
+      <workItem from="1593324039959" duration="5480000" />
+      <workItem from="1593395396796" duration="7340000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="175" y="313" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592968698085">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state x="175" y="313" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.960@0.23.1920.960" timestamp="1592968698085" />
+    <state x="216" y="257" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593248834468">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state x="216" y="257" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.960@0.23.1920.960" timestamp="1593248834468" />
+    <state width="931" height="210" key="GridCell.Tab.0.bottom" timestamp="1593437978721">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state width="931" height="210" key="GridCell.Tab.0.bottom/0.23.1920.960@0.23.1920.960" timestamp="1593437978721" />
+    <state width="931" height="210" key="GridCell.Tab.0.center" timestamp="1593437978719">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state width="931" height="210" key="GridCell.Tab.0.center/0.23.1920.960@0.23.1920.960" timestamp="1593437978719" />
+    <state width="931" height="210" key="GridCell.Tab.0.left" timestamp="1593437978719">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state width="931" height="210" key="GridCell.Tab.0.left/0.23.1920.960@0.23.1920.960" timestamp="1593437978719" />
+    <state width="931" height="210" key="GridCell.Tab.0.right" timestamp="1593437978720">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state width="931" height="210" key="GridCell.Tab.0.right/0.23.1920.960@0.23.1920.960" timestamp="1593437978720" />
+    <state width="915" height="318" key="GridCell.Tab.1.bottom" timestamp="1593177208399">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state width="915" height="318" key="GridCell.Tab.1.bottom/0.23.1920.960@0.23.1920.960" timestamp="1593177208399" />
+    <state width="915" height="318" key="GridCell.Tab.1.center" timestamp="1593177208398">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state width="915" height="318" key="GridCell.Tab.1.center/0.23.1920.960@0.23.1920.960" timestamp="1593177208398" />
+    <state width="915" height="318" key="GridCell.Tab.1.left" timestamp="1593177208397">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state width="915" height="318" key="GridCell.Tab.1.left/0.23.1920.960@0.23.1920.960" timestamp="1593177208397" />
+    <state width="915" height="318" key="GridCell.Tab.1.right" timestamp="1593177208398">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state width="915" height="318" key="GridCell.Tab.1.right/0.23.1920.960@0.23.1920.960" timestamp="1593177208398" />
+    <state x="0" y="142" key="SettingsEditor" timestamp="1592968650029">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state x="0" y="142" key="SettingsEditor/0.23.1920.960@0.23.1920.960" timestamp="1592968650029" />
+    <state x="157" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1593395457794">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state x="157" y="335" key="com.intellij.ide.util.TipDialog/0.23.1920.960@0.23.1920.960" timestamp="1593395457794" />
+    <state x="280" y="154" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1593421577390">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state x="280" y="154" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1920.960@0.23.1920.960" timestamp="1593421577390" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/week04ex$76_regex_alpha.coverage" NAME="76_regex_alpha Coverage Results" MODIFIED="1593224612089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week04ex$01_eight_queens.coverage" NAME="01_eight_queens Coverage Results" MODIFIED="1593437967229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../week04:projects" />
+    <SUITE FILE_PATH="coverage/week04ex$72_get_fbid.coverage" NAME="72_get_fbid Coverage Results" MODIFIED="1593328412839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week04ex$64_write_file.coverage" NAME="64_write_file Coverage Results" MODIFIED="1593324918430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week04ex$79_regex_html.coverage" NAME="79_regex_html Coverage Results" MODIFIED="1593424824870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week04ex$66_delete_file.coverage" NAME="66_delete_file Coverage Results" MODIFIED="1593262416417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week04ex$78_regex_par.coverage" NAME="78_regex_par Coverage Results" MODIFIED="1593423247546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week04ex$71_get_html.coverage" NAME="71_get_html Coverage Results" MODIFIED="1593328402106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week04ex$62_current_folder.coverage" NAME="62_current_folder Coverage Results" MODIFIED="1593326475999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week04ex$63_read_file.coverage" NAME="63_read_file Coverage Results" MODIFIED="1593250192356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week04ex$77_regex_word.coverage" NAME="77_regex_word Coverage Results" MODIFIED="1593437798739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week04ex$68_json_to_tsv.coverage" NAME="68_json_to_tsv Coverage Results" MODIFIED="1593437666290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week04ex$61_current_path.coverage" NAME="61_current_path Coverage Results" MODIFIED="1593324152853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

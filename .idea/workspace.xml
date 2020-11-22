@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97da280e-c7bc-476a-9ca5-f70f292ca363" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d1zigIJT5XmLeasB7r30K8uVgB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.56_matrix_multiplication">
+    <configuration name="52_binary_subtraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week03:ex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week03:ex/52_binary_subtraction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="53_binary_multiplication" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week03:ex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week03:ex/53_binary_multiplication.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="54_matrix_addition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week03:ex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week03:ex/54_matrix_addition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="55_matrix_subtraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week03:ex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week03:ex/55_matrix_subtraction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="56_matrix_multiplication" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week03:ex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week03:ex/56_matrix_multiplication.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.56_matrix_multiplication" />
+        <item itemvalue="Python.55_matrix_subtraction" />
+        <item itemvalue="Python.54_matrix_addition" />
+        <item itemvalue="Python.53_binary_multiplication" />
+        <item itemvalue="Python.52_binary_subtraction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97da280e-c7bc-476a-9ca5-f70f292ca363" name="Default Changelist" comment="" />
+      <created>1591607515562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591607515562</updated>
+      <workItem from="1591607516706" duration="317000" />
+      <workItem from="1591677321238" duration="10721000" />
+      <workItem from="1592895305710" duration="8327000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="82" y="168" key="#Inspections" timestamp="1592898089173">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state x="82" y="168" key="#Inspections/0.23.1920.960@0.23.1920.960" timestamp="1592898089173" />
+    <state width="410" height="318" key="GridCell.Tab.0.bottom" timestamp="1592905141882">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state width="410" height="318" key="GridCell.Tab.0.bottom/0.23.1920.960@0.23.1920.960" timestamp="1592905141882" />
+    <state width="410" height="318" key="GridCell.Tab.0.center" timestamp="1592905141881">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state width="410" height="318" key="GridCell.Tab.0.center/0.23.1920.960@0.23.1920.960" timestamp="1592905141881" />
+    <state width="410" height="318" key="GridCell.Tab.0.left" timestamp="1592905141881">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state width="410" height="318" key="GridCell.Tab.0.left/0.23.1920.960@0.23.1920.960" timestamp="1592905141881" />
+    <state width="410" height="318" key="GridCell.Tab.0.right" timestamp="1592905141882">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state width="410" height="318" key="GridCell.Tab.0.right/0.23.1920.960@0.23.1920.960" timestamp="1592905141882" />
+    <state width="410" height="318" key="GridCell.Tab.1.bottom" timestamp="1592905141883">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state width="410" height="318" key="GridCell.Tab.1.bottom/0.23.1920.960@0.23.1920.960" timestamp="1592905141883" />
+    <state width="410" height="318" key="GridCell.Tab.1.center" timestamp="1592905141882">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state width="410" height="318" key="GridCell.Tab.1.center/0.23.1920.960@0.23.1920.960" timestamp="1592905141882" />
+    <state width="410" height="318" key="GridCell.Tab.1.left" timestamp="1592905141882">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state width="410" height="318" key="GridCell.Tab.1.left/0.23.1920.960@0.23.1920.960" timestamp="1592905141882" />
+    <state width="410" height="318" key="GridCell.Tab.1.right" timestamp="1592905141883">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state width="410" height="318" key="GridCell.Tab.1.right/0.23.1920.960@0.23.1920.960" timestamp="1592905141883" />
+    <state x="56" y="142" key="SettingsEditor" timestamp="1591607539573">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state x="56" y="142" key="SettingsEditor/0.23.1920.960@0.23.1920.960" timestamp="1591607539573" />
+    <state x="226" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1591680401936">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state x="226" y="335" key="com.intellij.ide.util.TipDialog/0.23.1920.960@0.23.1920.960" timestamp="1591680401936" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PycharmProjects$30_dict_values.coverage" NAME="30_dict_values Coverage Results" MODIFIED="1591696483264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week02:ex" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$21_fun_calc.coverage" NAME="21_fun_calc Coverage Results" MODIFIED="1591686176098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week02:ex" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$25_random_tuple.coverage" NAME="25_random_tuple Coverage Results" MODIFIED="1591689701119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week02:ex" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$28_slice_list.coverage" NAME="28_slice_list Coverage Results" MODIFIED="1591694472801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week02:ex" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$29_make_dictionary.coverage" NAME="29_make_dictionary Coverage Results" MODIFIED="1591694958296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week02:ex" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$51_binary_addition.coverage" NAME="51_binary_addition Coverage Results" MODIFIED="1592896222297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week03:ex" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$54_matrix_addition.coverage" NAME="54_matrix_addition Coverage Results" MODIFIED="1592904082802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week03:ex" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$25_sum_of_list.coverage" NAME="25_sum_of_list Coverage Results" MODIFIED="1591690678804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week02:ex" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$27_mean_of_list.coverage" NAME="27_mean_of-list Coverage Results" MODIFIED="1591693351587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week02:ex" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$26_search_in_tuple.coverage" NAME="26_search_in_tuple Coverage Results" MODIFIED="1591692385197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week02:ex" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$23_make_list.coverage" NAME="23_make_list Coverage Results" MODIFIED="1591689327447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week02:ex" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$52_binary_subtraction.coverage" NAME="52_binary_subtraction Coverage Results" MODIFIED="1592896631083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week03:ex" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$53_binary_multiplication.coverage" NAME="53_binary_multiplication Coverage Results" MODIFIED="1592896754782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week03:ex" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$22_fun_split.coverage" NAME="22_fun_split Coverage Results" MODIFIED="1591687354121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week02:ex" />
+  </component>
+</project>

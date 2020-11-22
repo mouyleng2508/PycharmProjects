@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6e0c3b4-98a2-49b1-a320-f1b47807ccc2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dLZY80jgbwYG1vafVZoHA6agEm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.60_message_converter">
+    <configuration name="54_matrix_addition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="week03ex" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/54_matrix_addition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="55_matrix_subtraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="week03ex" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/55_matrix_subtraction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="56_matrix_multiplication" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="week03ex" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/56_matrix_multiplication.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="59_xor_operation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="week03ex" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/59_xor_operation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="60_message_converter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="week03ex" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/60_message_converter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.60_message_converter" />
+        <item itemvalue="Python.55_matrix_subtraction" />
+        <item itemvalue="Python.54_matrix_addition" />
+        <item itemvalue="Python.56_matrix_multiplication" />
+        <item itemvalue="Python.59_xor_operation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6e0c3b4-98a2-49b1-a320-f1b47807ccc2" name="Default Changelist" comment="" />
+      <created>1592206378924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592206378924</updated>
+      <workItem from="1592206380400" duration="2572000" />
+      <workItem from="1592272567618" duration="1858000" />
+      <workItem from="1592281789991" duration="5346000" />
+      <workItem from="1592361074498" duration="494000" />
+      <workItem from="1592374647394" duration="239000" />
+      <workItem from="1592374980441" duration="2625000" />
+      <workItem from="1592531490678" duration="1871000" />
+      <workItem from="1592623514176" duration="12309000" />
+      <workItem from="1592718479093" duration="4236000" />
+      <workItem from="1592794863926" duration="489000" />
+      <workItem from="1592966730654" duration="559000" />
+      <workItem from="1592984281644" duration="342000" />
+      <workItem from="1592988539009" duration="2909000" />
+      <workItem from="1593054704743" duration="2865000" />
+      <workItem from="1593146404289" duration="3056000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="915" height="236" key="GridCell.Tab.0.bottom" timestamp="1593155875791">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state width="915" height="236" key="GridCell.Tab.0.bottom/0.23.1920.960@0.23.1920.960" timestamp="1593155875791" />
+    <state width="915" height="236" key="GridCell.Tab.0.center" timestamp="1593155875790">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state width="915" height="236" key="GridCell.Tab.0.center/0.23.1920.960@0.23.1920.960" timestamp="1593155875790" />
+    <state width="915" height="236" key="GridCell.Tab.0.left" timestamp="1593155875789">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state width="915" height="236" key="GridCell.Tab.0.left/0.23.1920.960@0.23.1920.960" timestamp="1593155875789" />
+    <state width="915" height="236" key="GridCell.Tab.0.right" timestamp="1593155875790">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state width="915" height="236" key="GridCell.Tab.0.right/0.23.1920.960@0.23.1920.960" timestamp="1593155875790" />
+    <state width="946" height="318" key="GridCell.Tab.1.bottom" timestamp="1592668582915">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state width="946" height="318" key="GridCell.Tab.1.bottom/0.23.1920.960@0.23.1920.960" timestamp="1592668582915" />
+    <state width="946" height="318" key="GridCell.Tab.1.center" timestamp="1592668582915">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state width="946" height="318" key="GridCell.Tab.1.center/0.23.1920.960@0.23.1920.960" timestamp="1592668582915" />
+    <state width="946" height="318" key="GridCell.Tab.1.left" timestamp="1592668582914">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state width="946" height="318" key="GridCell.Tab.1.left/0.23.1920.960@0.23.1920.960" timestamp="1592668582914" />
+    <state width="946" height="318" key="GridCell.Tab.1.right" timestamp="1592668582915">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state width="946" height="318" key="GridCell.Tab.1.right/0.23.1920.960@0.23.1920.960" timestamp="1592668582915" />
+    <state x="0" y="142" key="SettingsEditor" timestamp="1592206513333">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state x="0" y="142" key="SettingsEditor/0.23.1920.960@0.23.1920.960" timestamp="1592206513333" />
+    <state x="115" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1593054713908">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state x="115" y="335" key="com.intellij.ide.util.TipDialog/0.23.1920.960@0.23.1920.960" timestamp="1593054713908" />
+    <state x="0" y="53" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592664733405">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state x="0" y="53" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1920.960@0.23.1920.960" timestamp="1592664733405" />
+    <state x="208" y="422" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1593147293348">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state x="208" y="422" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1920.960@0.23.1920.960" timestamp="1593147293348" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/week03ex$60_message_converter.coverage" NAME="60_message_converter Coverage Results" MODIFIED="1593155656703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week03ex$56_matrix_multiplication.coverage" NAME="56_matrix_multiplication Coverage Results" MODIFIED="1593148175023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week03ex$42_dec_to_oct.coverage" NAME="42_dec_to_oct Coverage Results" MODIFIED="1592660305835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week03ex$43_dec_to_hexa.coverage" NAME="43_dec_to_hexa Coverage Results" MODIFIED="1592660688364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week03ex$41_dec_to_bin.coverage" NAME="41_dec_to_bin Coverage Results" MODIFIED="1592662387140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week03ex$57_and_operation.coverage" NAME="57_and_operation Coverage Results" MODIFIED="1592991257115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week03ex$46_hex_to_dec.coverage" NAME="46_hex_to_dec Coverage Results" MODIFIED="1592664203398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week03ex$54_matrix_addition.coverage" NAME="54_matrix_addition Coverage Results" MODIFIED="1593148488977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week03ex$44_bin_to_dec.coverage" NAME="44_bin_to_dec Coverage Results" MODIFIED="1592663948059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week03ex$51_binary_addition.coverage" NAME="51_binary_addition Coverage Results" MODIFIED="1592749341604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week03ex$50_bin_to_oct.coverage" NAME="50_bin_to_oct Coverage Results" MODIFIED="1592664751294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week03ex$58_or_operation.coverage" NAME="58_or_operation Coverage Results" MODIFIED="1592991262667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week03ex$55_matrix_subtraction.coverage" NAME="55_matrix_subtraction Coverage Results" MODIFIED="1593148686676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week03ex$49_bin_to_hex.coverage" NAME="49_bin_to_hex Coverage Results" MODIFIED="1592664677613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week03ex$59_xor_operation.coverage" NAME="59_xor_operation Coverage Results" MODIFIED="1592991272526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week03ex$45_oct_to_dec.coverage" NAME="45_oct_to_dec Coverage Results" MODIFIED="1592663779642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week03ex$47_oct_to_hex.coverage" NAME="47_oct_to_hex Coverage Results" MODIFIED="1592664391189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week03ex$48_hex_to_oct.coverage" NAME="48_hex_to_oct Coverage Results" MODIFIED="1592664491907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
